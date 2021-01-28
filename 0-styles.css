@@ -153,6 +153,7 @@
   align-self: center;
   width: 162px;
   height: 44px;
+  padding: 13px 31px;
   font-family: var(--nav-item-font-family);
   font-weight: bold;
   font-size: 14px;
